@@ -1,0 +1,38 @@
+﻿UF;Unidade da Federação;Tipo;Regiao;População
+RO;Rondônia;Estado;Norte;1857992
+AC;Acre;Estado;Norte;866811
+AM;Amazonas;Estado;Norte;4240210
+RR;Roraima;Estado;Norte;546891
+PA;Pará;Estado;Norte;8628901
+AP;Amapá;Estado;Norte;842914
+TO;Tocantins;Estado;Norte;1599316
+MA;Maranhão;Estado;Nordeste;7121156
+PI;Piauí;Estado;Nordeste;3233891
+CE;Ceará;Estado;Nordeste;9178363
+RN;Rio Grande do Norte;Estado;Nordeste;3598288
+PB;Paraíba;Estado;Nordeste;4097859
+PE;Pernambuco;Estado;Nordeste;9650604
+AL;Alagoas;Estado;Nordeste;3419689
+SE;Sergipe;Estado;Nordeste;2352207
+BA;Bahia;Estado;Nordeste;15522855
+MG;Minas Gerais;Estado;Sudeste;21451356
+ES;Espírito Santo;Estado;Sudeste;4138657
+RJ;Rio de Janeiro;Estado;Sudeste;16946541
+SP;São Paulo;Estado;Sudeste;46064928
+PR;Paraná;Estado;Sul;11538518
+SC;Santa Catarina;Estado;Sul;7266193
+RS;Rio Grande do Sul;Estado;Sul;11416895
+MS;Mato Grosso do Sul;Estado;Centro-Oeste;2800704
+MT;Mato Grosso;Estado;Centro-Oeste;3455092
+GO;Goiás;Estado;Centro-Oeste;7017496
+DF;Distrito Federal;Estado;Centro-Oeste;3223048
+ReC;Regional Centro;Regional;;28450703
+ReL;Regional Leste;Regional;;68905063
+ReN;Regional Norte;Regional;;16983719
+ReS;Regional Sul;Regional;;97737890
+CO;Região Centro-oeste;Região;;16496340
+NO;Região Norte;Região;;18583035
+NE;Região Nordeste;Região;;58174912
+SU;Região Sul;Região;;30221606
+SE;Região Sudeste;Região;;88601482
+BR;Brasil;País;;212077375
